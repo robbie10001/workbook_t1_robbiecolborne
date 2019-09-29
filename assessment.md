@@ -329,6 +329,17 @@ This question is somewhat vague. I’m not sure if we are supposed to swap the 1
 
 #####Q.14 Demonstrate your algorithmic thinking through completing the following two tasks, in order:
 
+Seeing as 0 and 1 are not prime numbers we can start our count at 2. We need to check every number starting at 2. We also need to stop when we reach 100. To do this we need to create a function “Areyouaprime”. This function needs to loop trough all numbers from 2 to 100. If we come across a prime we add it to a counter. If the number is not a prime we restart the loop and continue the loop at the next sequential number. We continue our loop until we reach 100. At this point we print out the list of prime numbers. 
+
+see flow chart on my github 
+
+<https://github.com/robbie10001/workbook_t1_robbiecolborne/blob/master/flowchart.png>
+
+
+
+
+
+
 
 
 
